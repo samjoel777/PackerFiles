@@ -1,0 +1,6 @@
+{
+    "access_key_aws": "AKIAJ2FGBMKK6LHUMJ2Q",
+    "secret_key_aws": "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",
+    "region" : "us-west-2",
+    "ami_name": "apachefrompackerwithvarfile"
+}
